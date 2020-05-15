@@ -1,2 +1,3 @@
-First Line
-Second Line
+My first file written from Python
+---------------------------------
+Hello, world!
